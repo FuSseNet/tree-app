@@ -42,3 +42,6 @@
     background-color:greenyellow;
     border-radius: 16px;
 }
+.text:hover{
+    cursor: pointer;
+}
