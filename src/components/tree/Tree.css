@@ -1,0 +1,44 @@
+.child{
+    margin-left: 3rem;
+}
+
+.custom-container{
+    min-width: 350px !important;
+    min-height: 500px !important;
+    border: 2px greenyellow solid;
+    height: auto !important;
+    width: auto !important; 
+    padding-bottom: 75px !important;
+}
+
+.btns{
+    border-top: 2px greenyellow solid;
+}
+
+.btn-light{
+    border: 2px greenyellow solid !important;
+}
+
+.title{
+    border-bottom: 2px greenyellow solid;
+}
+
+.container-sm{
+    --bs-gutter-x: 0 !important;
+}
+
+.tree{
+    width: auto !important;
+    height: auto;
+    overflow: visible;
+    overflow: auto;
+    max-height: 500px !important;
+    max-width: 600px !important;
+}
+.text{
+    width: max-content;
+}
+.text.selected{
+    background-color:greenyellow;
+    border-radius: 16px;
+}
